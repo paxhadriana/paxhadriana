@@ -1,6 +1,6 @@
 # Introduction
 Hello! I'm Hadrian and I like to solve problems. French-Vietnamese, living in France.
-Pronouns are he/they/it in English, il/iel in French.
+I'm interested in video games, poetry, art and cats.
 
 # Projects
 I am currently learning Python and practicing my SQL.
