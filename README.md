@@ -1,4 +1,10 @@
-## Hi there 👋
+# Introduction
+Hello! I'm Hadrian and I like to solve problems. French-Vietnamese, living in France.
+Pronouns are he/they/it in English, il/iel in French.
+
+# Projects
+I am currently learning Python and practicing my SQL.
+I am also chipping at a small video game project using GB Studio.
 
 <!--
 **paxhadriana/paxhadriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
