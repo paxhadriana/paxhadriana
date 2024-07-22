@@ -1,10 +1,12 @@
 # Introduction
-Hello! I'm Hadrian and I like to solve problems. French-Vietnamese, living in France.
-I'm interested in video games, poetry, art and cats.
+Hello! I'm Hadrian and I like to solve problems. 
+
+French-Vietnamese, living in France (CET). 
+
+I work in data management, mostly through Excel.
 
 # Projects
-I am currently learning Python and practicing my SQL.
-I am also chipping at a small video game project using GB Studio.
+Projects are currently small-scale scripts that aim to automate or otherwise improve data management processes, perform basic ETL and prepare the data for analysis.
 
 <!--
 **paxhadriana/paxhadriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
